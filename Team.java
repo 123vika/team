@@ -19,7 +19,7 @@ public class Team {
 
         System.out.printf(" Команда : "+ nameOfTeam + ". \n" );
         for (int loop=0; loop <4;loop ++) {
-            System.out.printf(" Игрок : " + loop + " " + arrayOfPlayers[loop]+ "; \n" );
+            System.out.printf(" Игрок   : " + loop + " " + arrayOfPlayers[loop]+ "; \n" );
         }
 
     }
